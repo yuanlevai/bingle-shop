@@ -21,5 +21,5 @@ admin
 
 - login menggunakan username dan password 
 - ambil token jwt dan masukan ke authorization barrier
-user tidak bisa menambah atau merubah atau menghapus item
+- user tidak bisa menambah atau merubah atau menghapus item
 
